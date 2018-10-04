@@ -17,12 +17,12 @@ url('https://fonts.googleapis.com/css?family=Ubuntu');
 body{
   font-family: 'Ubuntu', sans-serif;
 	text-align: center;
-	background-color: #ffccba;
+	background-color: #b4b0ae;
 }
 
 
 hr {
-	border: 1px #ffe8e0 dashed;
+	border: 1px #ffffff dashed;
 }
 
 h1, h2, h3 {
@@ -38,16 +38,16 @@ li{
 }
 
 a:link {
-	color: #ffb296;
+	color: #000000;
 	text-decoration: none;
 	}
 	
 a:visited {
-	color: #ff8559;
+	color: #000000;
 	}
 	
 a:hover {
-	color: #ff8559;
+	color: #000000;
 	text-decoration: underline;
 	cursor: grab;
 	}
